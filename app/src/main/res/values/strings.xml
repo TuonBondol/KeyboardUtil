@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Keyboard Util</string>
+
+    <string name="hide_keyboard">hide keyboard</string>
+    <string name="show_keyboard">show keyboard</string>
+</resources>
